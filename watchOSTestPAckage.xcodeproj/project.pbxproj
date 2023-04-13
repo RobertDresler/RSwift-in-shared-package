@@ -398,13 +398,13 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = watchOSTestPAckage;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.vos.app.SharedDependencies.watchOSTestPAckage;
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.test.app.SharedDependencies.watchOSTestPAckage;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vos.app.SharedDependencies.watchOSTestPAckage.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.app.SharedDependencies.watchOSTestPAckage.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -428,13 +428,13 @@
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_KEY_CFBundleDisplayName = watchOSTestPAckage;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown";
-				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.vos.app.SharedDependencies.watchOSTestPAckage;
+				INFOPLIST_KEY_WKCompanionAppBundleIdentifier = com.test.app.SharedDependencies.watchOSTestPAckage;
 				LD_RUNPATH_SEARCH_PATHS = (
 					"$(inherited)",
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vos.app.SharedDependencies.watchOSTestPAckage.watchkitapp;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.app.SharedDependencies.watchOSTestPAckage.watchkitapp;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = watchos;
 				SKIP_INSTALL = YES;
@@ -470,7 +470,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vos.app.SharedDependencies.watchOSTestPAckage;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.app.SharedDependencies.watchOSTestPAckage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
@@ -503,7 +503,7 @@
 					"@executable_path/Frameworks",
 				);
 				MARKETING_VERSION = 1.0;
-				PRODUCT_BUNDLE_IDENTIFIER = com.vos.app.SharedDependencies.watchOSTestPAckage;
+				PRODUCT_BUNDLE_IDENTIFIER = com.test.app.SharedDependencies.watchOSTestPAckage;
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				SDKROOT = iphoneos;
 				SWIFT_EMIT_LOC_STRINGS = YES;
