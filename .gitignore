@@ -60,11 +60,6 @@ playground.xcworkspace
 .build/
 .swiftpm
 
-# GraphQL
-
-vos/vos/Static/Graphql/Base/API.swift
-vos/vos/Static/Graphql/Blog/BlogAPI.swift
-
 # CocoaPods
 Pods/
 
