@@ -6,6 +6,7 @@
 //
 
 import SwiftUI
+import Strings
 
 @main
 struct watchOSTestPAckage_Watch_AppApp: App {
@@ -13,5 +14,9 @@ struct watchOSTestPAckage_Watch_AppApp: App {
         WindowGroup {
             ContentView()
         }
+    }
+
+    var text: String {
+        Localizable.test()
     }
 }

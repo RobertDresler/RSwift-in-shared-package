@@ -16,8 +16,8 @@
 		D0758D3229E891420021034C /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = D0758D3129E891420021034C /* ContentView.swift */; };
 		D0758D3429E891430021034C /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0758D3329E891430021034C /* Assets.xcassets */; };
 		D0758D3729E891430021034C /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D0758D3629E891430021034C /* Preview Assets.xcassets */; };
-		D0758D4929E892090021034C /* Strings in Frameworks */ = {isa = PBXBuildFile; productRef = D0758D4829E892090021034C /* Strings */; };
-		D0758D4B29E8920D0021034C /* Strings in Frameworks */ = {isa = PBXBuildFile; productRef = D0758D4A29E8920D0021034C /* Strings */; };
+		D0758D5029E928E60021034C /* Strings in Frameworks */ = {isa = PBXBuildFile; productRef = D0758D4F29E928E60021034C /* Strings */; };
+		D077AF1129ED1BA500F740E4 /* Strings in Frameworks */ = {isa = PBXBuildFile; productRef = D077AF1029ED1BA500F740E4 /* Strings */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -63,7 +63,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0758D4929E892090021034C /* Strings in Frameworks */,
+				D0758D5029E928E60021034C /* Strings in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -71,7 +71,7 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				D0758D4B29E8920D0021034C /* Strings in Frameworks */,
+				D077AF1129ED1BA500F740E4 /* Strings in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -162,7 +162,7 @@
 			);
 			name = watchOSTestPAckage;
 			packageProductDependencies = (
-				D0758D4829E892090021034C /* Strings */,
+				D0758D4F29E928E60021034C /* Strings */,
 			);
 			productName = watchOSTestPAckage;
 			productReference = D0758D1A29E891410021034C /* watchOSTestPAckage.app */;
@@ -182,7 +182,7 @@
 			);
 			name = "watchOSTestPAckage Watch App";
 			packageProductDependencies = (
-				D0758D4A29E8920D0021034C /* Strings */,
+				D077AF1029ED1BA500F740E4 /* Strings */,
 			);
 			productName = "watchOSTestPAckage Watch App";
 			productReference = D0758D2A29E891420021034C /* watchOSTestPAckage Watch App.app */;
@@ -546,11 +546,11 @@
 /* End XCConfigurationList section */
 
 /* Begin XCSwiftPackageProductDependency section */
-		D0758D4829E892090021034C /* Strings */ = {
+		D0758D4F29E928E60021034C /* Strings */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = Strings;
 		};
-		D0758D4A29E8920D0021034C /* Strings */ = {
+		D077AF1029ED1BA500F740E4 /* Strings */ = {
 			isa = XCSwiftPackageProductDependency;
 			productName = Strings;
 		};

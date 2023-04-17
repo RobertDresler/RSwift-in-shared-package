@@ -6,12 +6,13 @@
 //
 
 import SwiftUI
+import Strings
 
 @main
 struct watchOSTestPAckageApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            Text(Localizable.test())
         }
     }
 }
